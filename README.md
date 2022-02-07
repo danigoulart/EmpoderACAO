@@ -2,13 +2,7 @@
 
 ## :crystal_ball: :globe_with_meridians: :woman_technologist: EmpoderAÇÃO :woman_technologist: :globe_with_meridians: :crystal_ball:
 
-
-
-  ### Menu 
-
-:small_blue_diamond: [Descrição do projeto](https://github.com/danigoulart/EmpoderACAO/blob/main/README.md#idealiza%C3%A7%C3%A3o)
-
-  
+ 
  
  ## O que é?
 Visando a preocupação e um olhar pro futuro, a ONU e suas ODS visam até 2030 acabar com a mortalidade materna na ODS 3: Saúde e Bem estar. Tendo isso em mente, dados apontam que 60 mil novos casos de câncer de mama acontecem todo ano no Brasil, sendo 28% destes podendo ser evitados por meio de hábitos de vida saúdaveis e auto exames regulares.
